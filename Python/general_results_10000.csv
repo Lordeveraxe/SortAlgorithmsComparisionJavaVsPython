@@ -1,0 +1,4 @@
+Algorithm,Execution Time (ms)
+MergeSort,125972.5
+QuickSort,387582.0
+BubbleSort,78073800.0
